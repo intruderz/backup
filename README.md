@@ -1,7 +1,7 @@
-[![Slam](https://telegra.ph/file/0aeec19a52f018b7ff247.jpg)](https://t.me/suketjawan)
+[![suketjawan](https://telegra.ph/file/0aeec19a52f018b7ff247.jpg)](https://t.me/suketjawan)
 
 # Suketjawan mirror
-![GitHub Repo stars](https://telegra.ph/file/0aeec19a52f018b7ff247.jpg)
+![GitHub Repo stars](https://img.shields.io/github/stars/suketjawan/mirror-bot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/suketjawan/mirror-bot?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/suketjawan/mirror-bot)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/suketjawan/mirror-bot)
