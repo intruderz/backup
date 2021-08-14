@@ -1,21 +1,21 @@
-[![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
+[![Slam](https://telegra.ph/file/0aeec19a52f018b7ff247.jpg)](https://t.me/suketjawan)
 
-# Slam Tg Mirror Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-tg-mirror-bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-tg-mirror-bot?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/breakdowns/slam-tg-mirror-bot)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/breakdowns/slam-tg-mirror-bot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/breakdowns/slam-tg-mirror-bot)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/breakdowns/slam-tg-mirror-bot)
-![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-tg-mirror-bot)
-![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-tg-mirror-bot?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/breakdowns/slam-tg-mirror-bot?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/breakdowns/slam-tg-mirror-bot)
-![GitHub](https://img.shields.io/github/license/breakdowns/slam-tg-mirror-bot)
-[![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/SlamMirrorUpdates)
+# Suketjawan mirror
+![GitHub Repo stars](https://telegra.ph/file/0aeec19a52f018b7ff247.jpg)
+![GitHub forks](https://img.shields.io/github/forks/suketjawan/mirror-bot?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/suketjawan/mirror-bot)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/suketjawan/mirror-bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/suketjawan/mirror-bot)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/suketjawan/mirror-bot)
+![GitHub watchers](https://img.shields.io/github/watchers/suketjawan/mirror-bot)
+![GitHub contributors](https://img.shields.io/github/contributors/suketjawan/mirror-bot?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/suketjawan/mirror-bot?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/suketjawan/mirror-bot)
+![GitHub](https://img.shields.io/github/license/suketjawan/mirror-bot)
+[![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/kontol)
 ![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
 
-**Slam Tg Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
+**Suketjawan mirror** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
 # Features supported:
 <details>
