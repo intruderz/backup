@@ -1,15 +1,15 @@
 {
-    "name": "slam-tg-mirror-bot",
+    "name": "Intruder-Mirror",
     "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://telegra.ph/file/6507910fd06d18dfaba82.jpg",
+    "logo": "https://telegra.ph/file/814a02401a34fbd579e0d.jpg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/breakdowns/slam-tg-mirror-bot",
-    "website": "https://github.com/breakdowns/slam-tg-mirror-bot",
-    "success_url": "https://t.me/SlamMirrorSupport",
+    "repository": "https://github.com/intruderz/backup",
+    "website": "https://github.com/intruderz/backup",
+    "success_url": "https://t.me/suketjawan",
     "stack": "container",
     "env": {
       "ENV": {
@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/breakdowns/slam-aria-mirror-bot.",
-        "value": "https://github.com/breakdowns/slam-aria-mirror-bot",
+        "value": "https://github.com/intruderz/backup",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -189,7 +189,9 @@
         "description": "Enter your Heroku app link to avoid the app from sleeping and to make it work with Torrent selection",
         "value": "https://yourappname.herokuapp.com",
         "required": true
-      }
+      },
+"IS_VPS": {
+"value": "True",
     },
     "addons": [
       {
